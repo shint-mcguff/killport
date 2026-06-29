@@ -2,8 +2,7 @@ class Killport < Formula
   desc "Free up a port by killing whatever is listening on it"
   homepage "https://github.com/shint-mcguff/killport"
   url "https://github.com/shint-mcguff/killport/archive/refs/tags/v0.1.0.tar.gz"
-  # Fill in after tagging: shasum -a 256 <downloaded tarball>
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "6802bc903df2a19747331b722969c59c1995389c72d8802872efc2f0de4a0253"
   license "MIT"
 
   depends_on xcode: ["14.0", :build]
