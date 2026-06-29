@@ -3,7 +3,7 @@
 Free up a port by killing whatever is listening on it. One command, no `lsof | grep | awk | kill` dance.
 
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-blue)
-![Swift 6.2](https://img.shields.io/badge/Swift-6.2-orange)
+![Swift 6.0](https://img.shields.io/badge/Swift-6.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ```console
